@@ -24,7 +24,7 @@ const addNote =  (title, body) => {
     }
     else{
 
-        console.log(chalk.red('Note title taken.'))
+        console.log(chalk.red('Note title taken. This is a test line added'))
 
     }
 }
